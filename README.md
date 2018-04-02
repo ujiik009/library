@@ -24,6 +24,6 @@
 
     }
 
-
+    // use
     var_dump(datediff( date('Y-m-d H:i:s'), "2018-03-05 18:11:44"));
  ```
